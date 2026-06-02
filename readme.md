@@ -54,7 +54,7 @@ El código fuente sigue un diseño funcional altamente desacoplado, dividiendo l
 ## 🚀 Guía de Uso de la Nueva Funcionalidad
 
 ### Requisitos Previos
-* Python 3.x instalado en el sistema.
+* Python instalado en el sistema.
 
 ### Comando de Ejecución
 Para iniciar el **Modo de Simulación de Secuencias Interactiva**, invoque el script desde la terminal de comandos utilizando el nuevo flag `-si` o `--secuencia-interactiva` acompañado de la expresión lógica deseada entre comillas:
